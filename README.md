@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+João+Vitório;I'm+20+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="left">
-  <a href="[www.linkedin.com/in/joão-vitório](https://www.linkedin.com/in/jo%C3%A3o-vit%C3%B3rio/)" >
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vit%C3%B3rio/" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
