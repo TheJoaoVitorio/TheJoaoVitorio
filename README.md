@@ -1,21 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+João+Vitório;I'm+20+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h2 align="left">I code with</h2>
+<div align="left">
+  <a href="www.linkedin.com/in/joão-vitório" >
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
-###
 
-###
