@@ -4,7 +4,7 @@
 <h4 align="Center">I work with Delphi and consider myself a Full Stack developer, as I am responsible for both the creation of modern and intuitive interfaces and the development of the back-end of the applications, ensuring the full functionality of the system.</h4>
 
  <h2>💫 About Me</h2>
-<img align="right" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
+<img align="right" alt="coding-gif" width="300" height="300" src="https://github.com/TheJoaoVitorio/TheJoaoVitorio/blob/main/e6294964e26db35f05e41e25e689b19d.gif">
 
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=TheJoaoVitorio&icon=2&color=6" alt="Visitor Count" /></a> </p>
 
