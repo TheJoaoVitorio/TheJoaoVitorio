@@ -28,20 +28,31 @@
 <h2 align="center">⭐ Languages and tools I use </h2>
 
 <br/>
-<div gap="5" align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="50" />
+<div align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="50" /> 
+    <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=py" width="50" height="50" alt="python logo"  />
+    <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="django logo"  />
+    <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="javascript logo"  />
     </br>
+    </br>
     <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="figma logo"  />
+    <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=notion" width="50" height="50" alt="figma logo"  />
+    <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=discord" width="50" height="50" alt="figma logo"  />
+    <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="figma logo"  />
     </br>
+    </br>
     <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="figma logo"  />
+    <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="figma logo"  />
+    <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="figma logo"  />
+    <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="figma logo"  />
 </div>
 
