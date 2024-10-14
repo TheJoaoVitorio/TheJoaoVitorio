@@ -5,7 +5,7 @@
 
  <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="300" height="300" src="https://github.com/TheJoaoVitorio/TheJoaoVitorio/blob/main/e6294964e26db35f05e41e25e689b19d.gif">
-
+<br/>
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=TheJoaoVitorio&icon=2&color=6" alt="Visitor Count" /></a> </p>
 
 <h4> 🌱 I started my journey with Python and, during the learning, I developed projects with the Django framework.</br></br> 
