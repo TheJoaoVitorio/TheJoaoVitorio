@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=TheJoaoVitorio&icon=2&color=6" alt="Visitor Count" /></a> </p>
 
 <h4> 🌱 I started my journey with Python and, during the learning, I developed projects with the Django framework.</br></br> 
-📚 I am currently studying Computer Science.</br></br> 
+<!--📚 I am currently studying Computer Science.</br></br> -->
  🔭 In addition, I learned the basics of JavaScript, enriching my knowledge in web development.</br></br>
  💬 I love creating new projects using Figma, but what fascinates me the most is seeing the interaction between the backend and the interface. In addition, I really like to face and solve challenges on a daily basis.</br>
   </h4> <div align="left"> 
