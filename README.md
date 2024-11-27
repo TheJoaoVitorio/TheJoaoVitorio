@@ -48,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="figma logo"  />
     </br>
     </br>
-    <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="figma logo"  />
     <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="figma logo"  />
     <img width="6" ></img>
