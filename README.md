@@ -43,7 +43,7 @@
     <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=notion" width="50" height="50" alt="figma logo"  />
     <img width="6" ></img>
-    <img src="https://skillicons.dev/icons?i=discord" width="50" height="50" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="figma logo"  />
     <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="figma logo"  />
     </br>
