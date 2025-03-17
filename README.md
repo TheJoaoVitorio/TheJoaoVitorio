@@ -5,7 +5,7 @@
 
  <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="280" height="280" src="https://github.com/TheJoaoVitorio/TheJoaoVitorio/blob/main/e6294964e26db35f05e41e25e689b19d.gif">
-<br/>
+
 
 
 <h4> 🌱 I started my journey with Python and, during the learning, I developed projects with the Django framework.</br></br> 
