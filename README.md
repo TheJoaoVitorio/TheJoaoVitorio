@@ -35,25 +35,25 @@
     <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="django logo"  />
     <img width="6" ></img>
-    <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="javascript logo"  />
+    <img src="https://skillicons.dev/icons?i=dart" width="50" height="50" alt="dart logo"  />
     </br>
     </br>
+    <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="flutter logo"  />
+    <img width="6" ></img>
     <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="figma logo"  />
     <img width="6" ></img>
-    <img src="https://skillicons.dev/icons?i=notion" width="50" height="50" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i=notion" width="50" height="50" alt="notion logo"  />
     <img width="6" ></img>
-    <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="figma logo"  />
-    <img width="6" ></img>
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="vscode logo"  />
     </br>
     </br>
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="nodejs logo"  />
     <img width="6" ></img>
-    <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="postgresql logo"  />
     <img width="6" ></img>
-    <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="postman logo"  />
     <img width="6" ></img>
-    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="git logo"  />
 </div>
 
 <br/>
